@@ -825,7 +825,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rcsThrust: 200
-  mainThrust: 10
+  mainThrust: 15
   mainEngine: {fileID: 8300000, guid: cc5b272ee8fc9db45b01e53285f37f33, type: 3}
   complete: {fileID: 8300000, guid: e46f3aed9cd979a47a74eea917a10d7c, type: 3}
   death: {fileID: 8300000, guid: 0ccf9a06144006848a18a67a1110ac94, type: 3}
